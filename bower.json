@@ -1,0 +1,19 @@
+{
+  "name": "barranquilla",
+  "authors": [
+    "Cristian Rojas <cristianguillermorojas@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./barranquilla/static/bower_componets/",
+    "test",
+    "tests"
+  ]
+}

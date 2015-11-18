@@ -1,0 +1,8 @@
+*.pyc
+*.idea
+shell_plus.sh
+run.sh
+node_modules/
+bower_components/
+.DS_Store
+generated/
